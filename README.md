@@ -1,8 +1,9 @@
-# Poker AI Framework | 不完全信息博弈AI框架| 德州扑克 AI 机器人源码|德州AI源码
+# Poker AI Framework | Texas Hold'em Poker AI | 德州扑克AI源码|  不完全信息博弈AI框架| 德州扑克 AI 机器人源码|德州AI源码
 
 A poker AI framework designed for imperfect-information games, focusing on decision-making, simulation, and reinforcement learning concepts.  
-一个面向不完全信息博弈的扑克AI框架，专注于决策建模、模拟训练与强化学习方法。
+**最强德州扑克AI机器人框架** | **德州扑克源码** | **德州俱乐部源码**
 
+一个面向**不完全信息博弈**的专业扑克AI框架，融合 GTO、CFR 思想、对手建模与强化学习，可实现从新手陪玩到顶级职业牌手水平的智能对战。
 > **关键词**：`德州扑克AI` `扑克机器人` `游戏AI` `GTO` `强化学习` `Unity AI` `C++ AI`
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Contact](https://img.shields.io/badge/联系-Telegram-blue.svg)](https://t.me/alibabama401)
